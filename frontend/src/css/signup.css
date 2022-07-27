@@ -1,0 +1,30 @@
+.mainScreen {
+  /* background-color: #ffb548; */
+  background-image: url("../../public/assets/main-bg.jpg");
+  background-size: 100% 100%;
+  height: 800px;
+  position: relative;
+}
+
+.boxSignup {
+  background-color: grey;
+  width: 320px;
+  height: 500px;
+  padding: 20px;
+  border-radius: 5%;
+  opacity: 75%;
+  margin-top: -30px;
+}
+
+orText {
+  color: white;
+}
+
+.textSignup {
+  color: white;
+  font-family: Arial;
+  font-weight: 700;
+  font-size: 56px;
+  text-transform: uppercase;
+  text-align: center;
+}

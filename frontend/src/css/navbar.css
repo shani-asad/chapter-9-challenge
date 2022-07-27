@@ -1,0 +1,22 @@
+/* Navbar */
+.navHeader {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 50px;
+}
+
+.navTextColor {
+  color: white !important;
+}
+
+.navFontText {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+}
+
+.navFontSizeLogo {
+  font-size: 24px;
+}
+
+.navFontSize {
+  font-size: 12px;
+}

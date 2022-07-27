@@ -1,0 +1,392 @@
+/* Background */
+
+.mainScreenOne {
+  background-image: url("../../public/assets/main-bg.jpg");
+  background-size: 100% 100%;
+  height: 870px;
+  margin-top: -95px;
+}
+
+.mainScreenTwo {
+  background-image: url("../../public/assets/the-games-bg.jpg");
+  background-size: 100% 100%;
+  height: 870px;
+  position: relative;
+  margin-top: 90px;
+}
+
+.mainScreenThree {
+  background-image: url("../../public/assets/features.jpg");
+  background-size: 100% 100%;
+  height: 870px;
+  position: relative;
+}
+
+.mainScreenFour {
+  background-image: url("../../public/assets/requirements.jpg");
+  background-size: 100% 100%;
+  height: 870px;
+  position: relative;
+}
+
+.mainScreenFour2nd {
+  background-image: url("../../public/assets/Rectangle4.png");
+  background-size: 100% 100%;
+  height: 870px;
+  position: relative;
+}
+
+.mainScreenFive {
+  /* background-image: url("../assets/black-paper.jpg"); */
+  background-color: black;
+  background-size: 100% 100%;
+  height: 870px;
+  position: relative;
+}
+
+.mainScreenSix {
+  background-color: black;
+  background-size: 100% 100%;
+  height: 870px;
+  position: relative;
+}
+
+/* Halaman 1 */
+
+.pageOnePadding {
+  padding-top: 180px;
+}
+
+.textOnePageOne {
+  font-family: "Arial", cursive;
+  font-weight: 700;
+  font-size: 72px;
+  color: white;
+  text-align: center;
+  letter-spacing: 3px;
+}
+
+.textTwoPageOne {
+  font-family: "Arial", cursive;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  letter-spacing: 3px;
+}
+
+.buttonPageOne {
+  text-align: center;
+  height: 50px;
+}
+
+.textButtonPageOne {
+  font-family: "Open Sans" !important;
+  font-size: 12px !important;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.scrollDown {
+  text-align: center;
+  color: white;
+  padding-top: 300px;
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+.scrollDownPadding {
+  text-align: center;
+  margin-top: -5px;
+  padding-bottom: 20px;
+}
+
+/* Halaman Kedua */
+
+.textOnePageTwo {
+  color: white;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 2px;
+}
+
+.textTwoPageTwo {
+  color: white;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 56px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.paddingPageTwo {
+  padding-top: 200px;
+}
+
+.sizeCrousel {
+  width: 700px;
+  height: 350px;
+}
+
+/* Halaman Ketiga */
+
+.textOnePageThree {
+  color: white;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 2px;
+}
+
+.textTwoPageThree {
+  color: white;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 56px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.textThreePageThree {
+  color: #ffb548;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.textFourPageThree {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
+
+.paddingPageThree {
+  padding-top: 250px;
+}
+
+.marginTextOnePageThree {
+  margin-top: -25px;
+}
+
+.marginTextTwoPageThree {
+  margin-top: 10px;
+}
+
+.simbolColorPageThree {
+  color: white;
+  text-align: right;
+  margin-right: -40px;
+}
+
+.sizeSimbol {
+  font-size: 30px;
+}
+
+/* Halaman Keempat */
+
+.textOnePageFour {
+  color: white;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.textTwoPageFour {
+  color: white;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 56px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.textThreePageFour {
+  color: #ffb548;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.textFourPageFour {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 2px;
+}
+
+.paddingPageFour {
+  padding-top: 130px;
+}
+
+.marginTextOnePageFour {
+  margin-top: 50px;
+}
+
+.marginTextTwoPageFour {
+  margin-top: -40px;
+}
+
+/* Halaman Kelima */
+
+.logoBox {
+  margin-left: 350px;
+}
+
+.textOnePageFive {
+  color: white;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 56px;
+  letter-spacing: 3px;
+}
+
+.textTwoPageFive {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.textThreePageFive {
+  color: #ffb548;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 2px;
+  margin-left: 75px;
+}
+
+.textFourPageFive {
+  color: #959595;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  margin-left: 75px;
+}
+
+.textFivePageFive {
+  color: #959595;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  margin-top: -15px;
+}
+
+.textSixPageFive {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.textButtonPageFive {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.marginOnePageFive {
+  margin-top: -25px;
+}
+
+.marginTwoPageFive {
+  margin-left: -380px;
+}
+
+.sizePhoto {
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  margin-top: -100px;
+}
+
+.boxPageFive {
+  background-color: rgb(54, 54, 54);
+  width: 450px;
+  height: 200px;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.marginLeft {
+  margin-left: -200px;
+}
+
+.boxFour {
+  background-color: #ffb548;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+/* Halaman Keenam */
+
+.textOnePageSix {
+  color: white;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 2px;
+}
+
+.textTwoPageSix {
+  color: white;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 56px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.textThreePageSix {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.textFourPageSix {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.textFivePageSix {
+  color: #959595;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.sizeLabel {
+  width: 200px;
+}
+
+.marginOnePageSix {
+  margin-top: 70px;
+}
+
+.marginTwoPageSix {
+  margin-top: 50px;
+}
+
+.marginThreePageSix {
+  text-align: right;
+}
+.textColorPageSix {
+  color: white;
+}

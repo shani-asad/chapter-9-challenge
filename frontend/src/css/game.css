@@ -1,0 +1,70 @@
+/* Background */
+
+.mainScreenOneGame {
+  background-color: #9c835f;
+  width: 100vw;
+  height: 100hv;
+}
+
+.textOnePageGame {
+  font-family: Bebas Neue;
+  font-weight: bolder;
+  font-size: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding-top: 50px;
+}
+
+/* Contents */
+
+.sizeItem {
+  width: 80px;
+  height: 75px;
+  margin-top: 30px;
+}
+
+.sizeItemTwo {
+  width: 70px;
+  height: 40px;
+}
+
+.boxChoose {
+  background-color: grey;
+  width: 140px;
+  height: 140px;
+  border-radius: 10%;
+  margin-left: 25px;
+  margin-top: -30px;
+}
+
+.positionItem {
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 25px;
+}
+
+/* Score */
+
+.positionItemScoreOne {
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 100px;
+}
+
+.positionItemScoreTwo {
+  text-align: center;
+  margin-top: -25px;
+}
+
+.textScoreOne {
+  font-family: Bebas Neue;
+  font-size: 56px;
+}
+
+.textScoreTwo {
+  font-family: Bebas Neue;
+  font-size: 56px;
+}
